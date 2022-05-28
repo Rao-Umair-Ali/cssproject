@@ -1,0 +1,138 @@
+.rao1 {
+  height: 2px;
+  width: 10px;
+  margin: 2px;
+  background-color: white;
+}
+
+.rua {
+  height: 50px;
+  width: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: blueviolet;
+}
+
+.papa {
+  height: 90vh;
+  width: 50px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.beta2 {
+  color: gray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.beta3 {
+  color: blueviolet;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.papa2 {
+  background-color: brown;
+  height: 96vh;
+  width: 40vw;
+  box-shadow: 1px 1px 50px 3px rgb(48, 48, 48) ; 
+  z-index: 10;
+
+
+}
+
+.dadag {
+  display: flex;
+
+}
+
+.b31 {
+
+  background-color: white;
+  padding: 1px;
+
+}
+
+.betay {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 200px;
+}
+
+body {
+  background-color: pink;
+}
+
+.b32 {
+  background-color: white;
+
+  padding: 30px;
+  
+
+
+}
+
+.empty {
+  border: 1px gray solid;
+  margin-left: 30px;
+  margin-right: 50px;
+  margin-top: 120px;
+  margin-bottom: 30px;
+}
+
+.papa3 {
+padding: 40px;
+  width: 50vw;
+  background-color: white;
+  height: 90vh;
+  margin-top: 30px;
+  overflow-y: scroll ;
+ }
+  
+
+
+.seo {
+
+color: gray;
+
+
+}
+.main{
+  display: flex;
+  justify-content: center;
+font-size: large;
+color: gray;
+
+
+}
+.op{
+  color: black;
+  width: 20vw;
+}
+*{
+  box-sizing: border-box;
+}
+::-webkit-scrollbar{
+  background-color: rgb(255, 255, 255);
+  width: 4px;
+  
+}
+::-webkit-scrollbar-button{
+  background-color: rgb(255, 255, 255);
+}
+::-webkit-scrollbar-thumb{
+  background-color: rgb(149, 160, 156);
+}
